@@ -4,5 +4,7 @@ This project focuses on predicting the first innings score of Men's T20 Internat
 
 # Dataset
 Dataset Source: T20I Men's Cricket Match Data (2003 - 2023)
+
 File Used: ball_by_ball_it20.csv
+
 The dataset provides detailed insights into each T20I match, capturing crucial match-specific attributes that influence the prediction of first innings scores.
